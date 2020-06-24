@@ -11,4 +11,5 @@
   * Squeezenet
   * VGG
   * Inception
+  
  *This is an assignment submission for the course of Deep Learning Foundations and Applications(AI61002) at IIT Kharagpur.*
