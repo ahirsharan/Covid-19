@@ -1,4 +1,4 @@
-## Train Densenet on Chest X-Ray Dataset for identification of Covid-19:
+## Densenet on Chest X-Ray Dataset for identification of Covid-19
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PyTorch](https://img.shields.io/badge/pytorch-0.4.0-%237732a8)](https://github.com/ahirsharan/Covid-19.git)
   * Analysis of loss and accuracy.
